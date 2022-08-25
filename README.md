@@ -2,10 +2,12 @@
 Essa aplicação foi desenvolvida apartir do treinamento Explorer da Rocetseat utilizando somente HTML e CSS. O objetivo principal do projeto era criar uma landpage, sendo que, a mesma utiliza conceitos fundamentais das tecnologias (como boxmodel, flexbox, estilização de butões, personalização de textos e HTML semantico).   
 
 ##Tecnologias usadas
+
 HTML
 CSS
 
 ##Link de acesso
+
 https://777diegoribeiro777.github.io/Treine.me/
 
 ##Imagem do projeto
